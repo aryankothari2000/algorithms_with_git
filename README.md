@@ -25,3 +25,4 @@ Happy Open Sourcing!
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
 - [Array Rotation By 1](algorithms/array_rotation_by_1)
 - [Magic Number](algorithms/magic_no/)
+- [KMP Algorithm](algorithms/Knuth-Morris-Pratt/)
