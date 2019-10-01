@@ -27,3 +27,4 @@ Happy Open Sourcing!
 - [Magic Number](algorithms/magic_no/)
 - [KMP Algorithm](algorithms/Knuth-Morris-Pratt/)
 - [Matrix Exponentiation](algorithms/Matrix-Expo/)
+- [Disjoint Set Union](algorithms/disjoint_set_union/)
