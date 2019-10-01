@@ -26,3 +26,4 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/array_rotation_by_1)
 - [Magic Number](algorithms/magic_no/)
 - [KMP Algorithm](algorithms/Knuth-Morris-Pratt/)
+- [Matrix Exponentiation](algorithms/Matrix-Expo/)
